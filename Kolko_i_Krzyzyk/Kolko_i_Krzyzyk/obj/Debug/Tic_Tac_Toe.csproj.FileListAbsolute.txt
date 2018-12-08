@@ -1,0 +1,17 @@
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\bin\Debug\Kolko_i_Krzyzyk.exe.config
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\bin\Debug\Kolko_i_Krzyzyk.exe
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\bin\Debug\Kolko_i_Krzyzyk.pdb
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Tic_Tac_Toe.csprojAssemblyReference.cache
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Menu.g.cs
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\App.g.cs
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Kolko_i_Krzyzyk_MarkupCompile.cache
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Kolko_i_Krzyzyk_MarkupCompile.lref
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\MainWindow.baml
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Menu.baml
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Kolko_i_Krzyzyk.g.resources
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Kolko_i_Krzyzyk.Properties.Resources.resources
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.cache
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Kolko_i_Krzyzyk.exe
+C:\Users\Daniel Kaczocha\source\repos\Kolko_i_Krzyzyk\Kolko_i_Krzyzyk\obj\Debug\Kolko_i_Krzyzyk.pdb
